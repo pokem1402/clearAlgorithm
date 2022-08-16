@@ -1,9 +1,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,c++,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,c++,python
 
-### Test file ###
+### Test file And Template ###
 test
 */test/*
+template
+*/template/*
+
 
 ### C++ ###
 # Prerequisites
