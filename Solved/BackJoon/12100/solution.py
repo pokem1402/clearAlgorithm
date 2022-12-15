@@ -94,8 +94,6 @@ def toward(_board, direction):
     return board, max(map(max, board)), changed
 
 # bfs
-
-
 def bfs(board_init):
 
     # queue 생성
